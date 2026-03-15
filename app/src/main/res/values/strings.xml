@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Samurai Shift Automator</string>
+    <string name="accessibility_service_description">خدمة أتمتة حجز الشفتات لتطبيق ساموراي</string>
+    <string name="start_service">بدء الخدمة</string>
+    <string name="stop_service">إيقاف الخدمة</string>
+    <string name="enable_accessibility_service">تفعيل خدمة الوصول</string>
+    <string name="overlay_permission_needed">مطلوب إذن الرسم فوق التطبيقات الأخرى</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="select_shift_area">حدد منطقة الدوام</string>
+</resources>
